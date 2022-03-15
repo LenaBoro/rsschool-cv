@@ -7,7 +7,7 @@
 ## Priorities:
  I want to write beautiful and qualitative code on js in the community of like-minded people. Now my knoweledge is in slices, i want to structure it.
 ## Goal: 
-becomу front-end developer
+become front-end developer
 ******
 ## Skills:
  Html, css, jquery, js, vscode, phpstorm
