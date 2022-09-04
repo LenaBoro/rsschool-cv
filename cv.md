@@ -23,7 +23,7 @@ I have studying portfolio on the https://lenaboro.github.io
 ## Education:
  1. course "Basic of programming" in Politech (ended in 2018)
  2. course "web-developming" in Itmo  (ended in 2018)
- 3. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+ 3. RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 *******
 ## Languages:
 English: Pre-intermediate/ Intermediate.
